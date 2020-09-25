@@ -1,0 +1,13 @@
+name: KrogerApplication
+title: KrogerApplication
+username:
+account: idedic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2890420
+bundleId: 3671766
+url: https://idedic.shinyapps.io/KrogerApplication/
+when: 1601069008.55498
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: KrogerApp_Dedic.R
